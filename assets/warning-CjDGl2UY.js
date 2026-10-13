@@ -1,1 +1,0 @@
-let a={};const o=n=>{};function r(n,e){}function f(n,e){}function s(){a={}}function i(n,e,t){!e&&!a[t]&&(n(!1,t),a[t]=!0)}function c(n,e){i(r,n,e)}function u(n,e){i(f,n,e)}c.preMessage=o;c.resetWarned=s;c.noteOnce=u;export{c as w};
